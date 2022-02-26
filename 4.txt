@@ -1,1 +1,2 @@
 dodanie treści do pliku tekstowego 4.txt
+dodanie nowego testu na potrzeby branch txtxs
